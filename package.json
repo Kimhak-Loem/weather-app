@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimhak-Loem/weather-app.git"
+  },
+  "author": "Kimhak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimhak-Loem/weather-app/issues"
+  },
+  "homepage": "https://github.com/Kimhak-Loem/weather-app#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
+  }
+}
