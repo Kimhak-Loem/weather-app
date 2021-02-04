@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Kimhak-Loem/weather-app#readme",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "request": "^2.83.0",
     "yargs": "^11.0.0"
   }
